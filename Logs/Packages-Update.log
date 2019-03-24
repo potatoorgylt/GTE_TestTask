@@ -1,0 +1,9 @@
+
+=== Fri Mar 22 01:39:50 2019
+
+Packages were changed.
+Update Mode: resetToDefaultDependencies
+
+The following packages were removed:
+  com.unity.render-pipelines.high-definition@5.7.2-preview
+  com.unity.shadergraph@5.3.1
